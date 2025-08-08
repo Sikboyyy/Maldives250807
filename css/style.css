@@ -76,7 +76,7 @@ article:nth-child(3) .txt i {	position:absolute; bottom:-20px; right:-15px; font
 article .txt strong { font-size:30px;	font-weight:normal; line-height:1.6;	color:#444; margin-bottom:20px; transition:all 1s;}
 
 /*텍스트박스 호버효과*/
-article:hover .txt { background:#ffffff;	color:#fff;}
+article:hover .txt { background:#0550e7;	color:#fff;}
 article:hover .txt i { right:0px; opacity:0.5;}
 article:hover .txt strong { color:#fff;}
 
